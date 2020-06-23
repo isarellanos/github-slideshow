@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Isaac Arellano
+Isaac Arellano the Best
 Use the left arrow to go back!
